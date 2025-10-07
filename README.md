@@ -1,10 +1,10 @@
 # Optimum – Comprehensive Guide
 
-*A polished iOS 17 app that turns nothing but your iPhone’s on-board sensors into a personalised sleep coach.*
+*A sleep assistant*
 
 ---
 
-## 🌟 Key Capabilities at a Glance
+## Key Features
 
 | Domain                          | What Optimum Delivers                                                                                                                                                                                   |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +45,7 @@ Build & run on a connected device. First launch shows the splash and then reques
 
 ---
 
-## ✅ Xcode Project Setup
+## Xcode Project Setup
 
 ### 1 – Signing & Capabilities
 
@@ -182,7 +182,6 @@ Displayed debt is the **sum of shortfalls** over the past 7 nights. (0.0 h if yo
 ## 🚦 Roadmap
 
 * Apple Watch heart-rate / HRV fusion for finer sleep detection.
-* Machine-learning quality model (replace rule set).
 * WidgetKit home-screen & StandBy widgets.
 * Wind-down “focus mode” with breathing exercises.
 
